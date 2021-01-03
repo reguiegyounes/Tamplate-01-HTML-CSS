@@ -37,4 +37,16 @@ body{
 /*End header*/
 
 
+/*Start features*/
+.features{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.features .feat{
+    float: left;
+    width: 33.33%;
+    background-color: aqua;
+}
+/*End features*/
+
 
